@@ -1,2 +1,4 @@
-# Other Test to merge file.
 
+# Test file for test
+
+Blah blash
